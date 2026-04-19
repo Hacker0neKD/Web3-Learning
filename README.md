@@ -21,4 +21,4 @@ Stay tuned for updates as I continue to learn and grow in this exciting field!
 
 ---
 ### Day-1 [Foundation and Overview](/notes/Day-1/README.md)
-### Day-2 [Solidity Basics, Syntax](/notes/Day-2/README.md)
+### Day-2 [Solidity Basics, Syntax, Variables, Data Types](/notes/Day-2/README.md)
