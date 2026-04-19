@@ -220,4 +220,3 @@ Store your crypto & keys
     > - **Apache License 2.0:** `Apache-2.0`
     > - **GNU General Public License v3.0 or later:** `GPL-3.0-or-later`
     > - **BSD 3-Clause License:** `BSD-3-Clause`
-<href =../../../src/firstSmartContract.sol> firstSmartContract.sol</>
