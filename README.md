@@ -19,4 +19,6 @@ The repository will be organized into daily learning files, starting with `Day 1
 
 Stay tuned for updates as I continue to learn and grow in this exciting field!
 
-## Day-1 [Foundation and Overview](/notes/Day-1/README.md)
+---
+### Day-1 [Foundation and Overview](/notes/Day-1/README.md)
+### Day-2 [Solidity Basics, Syntax](/notes/Day-2/README.md)
