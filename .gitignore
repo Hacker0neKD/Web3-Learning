@@ -1,0 +1,14 @@
+# Ignore everything
+*
+
+# Allow main folders/files
+!src/
+!src/**
+
+!notes/
+!notes/**
+
+!README.md
+
+# Keep gitignore itself
+!.gitignore
