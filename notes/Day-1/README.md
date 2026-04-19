@@ -185,4 +185,4 @@ Store your crypto & keys
 - Data Types
 - Function 
 
-###And in Next Day or Writeup I am gonna share How to setup the VS-Code and Foundry for the   Solidity Smart Contract Development
+### And in Next Day or Writeup I am gonna share How to setup the VS-Code and Foundry for the   Solidity Smart Contract Development
