@@ -8,7 +8,7 @@
 !notes/
 !notes/**
 
-!README.md
+!README(1).md
 
 # Keep gitignore itself
 !.gitignore
