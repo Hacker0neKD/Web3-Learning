@@ -185,4 +185,39 @@ Store your crypto & keys
 - Data Types
 - Function 
 
-### And in Next Day or Writeup I am gonna share How to setup the VS-Code and Foundry for the   Solidity Smart Contract Development
+---
+## Chapter 1: Overview
+    
+    just simple over view of the platform and spdx license
+    
+    ```solidity
+    // SPDX-License-Identifier: MIT
+    ```
+    
+    > 
+    > 
+    > 
+    > **Key Aspects of SPDX License Identifiers:**
+    > 
+    > - **Standardization:** They prevent confusion caused by varying license header texts.
+    > - **Usage in Code:** Added to the top of source files, often in the format `// SPDX-License-Identifier: MIT`.
+    > - **Expression Syntax:** Complex licensing scenarios can be handled using expressions, such as `GPL-2.0-or-later WITH Classpath-exception-2.0`.
+    > 
+    > **Automation:** Widely supported by legal tools (like FOSSA) and package managers (npm, Rust Cargo, Debian). **fossa.com +3**
+    > 
+    > - **Automation:** Widely supported by legal tools (like FOSSA) and package managers (npm, Rust Cargo, Debian).
+    >     
+    >     **fossa.com +3**
+    >     
+    >     [fossa.com](https://encrypted-tbn0.gstatic.com/faviconV2?url=https://fossa.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL)
+    >     
+    > 
+    > [fossa.com](https://encrypted-tbn0.gstatic.com/faviconV2?url=https://fossa.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL)
+    > 
+    > **Common Examples:**
+    > 
+    > - **MIT License:** `MIT`
+    > - **Apache License 2.0:** `Apache-2.0`
+    > - **GNU General Public License v3.0 or later:** `GPL-3.0-or-later`
+    > - **BSD 3-Clause License:** `BSD-3-Clause`
+<href =../../../src/firstSmartContract.sol> firstSmartContract.sol</>
