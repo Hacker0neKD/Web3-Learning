@@ -209,5 +209,5 @@ A simple overview of the platform and SPDX license.
 * **GNU General Public License v3.0 or later:** `GPL-3.0-or-later`
 * **BSD 3-Clause License:** `BSD-3-Clause`
 
-### Example fistSmartContract.sol
+### Example firstSmartContract.sol
 [FirstSmartContract](../../src/firstSmartContract.sol)
