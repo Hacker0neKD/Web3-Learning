@@ -10,8 +10,6 @@ contract firstSmartContract{
     comment */
 	
 	uint256 munber; //first variable with data type uint256 which is gonna store the number in the blockchain
-    
-	string public message = "Hello Solidity"; // first string which gonna print in the terminal after the deploying the smart contract
-	
 
+	string public message = "Hello Solidity"; // first string which gonna print in the terminal after the deploying the smart contract
 }

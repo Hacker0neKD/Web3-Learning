@@ -186,7 +186,7 @@ Store your crypto & keys
 - Function 
 
 ---
-## Chapter 1: Overview
+## Day 1: Overview
 
 A simple overview of the platform and SPDX license.
 
@@ -199,15 +199,15 @@ A simple overview of the platform and SPDX license.
 > * **Standardization:** They prevent confusion caused by varying license header texts.
 > * **Usage in Code:** Added to the top of source files, often in the format `// SPDX-License-Identifier: MIT`.
 > * **Expression Syntax:** Complex licensing scenarios can be handled using expressions, such as `GPL-2.0-or-later WITH Classpath-exception-2.0`.
-> * **Automation:** Widely supported by legal tools (like FOSSA) and package managers (npm, Rust Cargo, Debian).
->
-> **fossa.com**
->
-> [fossa.com](https://fossa.com)
+> * **Automation:** Widely supported by legal tools (like FOSSA [fossa.com](https://fossa.com)) and package managers (npm, Rust Cargo, Debian).
 
-### Common Examples:
+
+### Common Examples Of License Identifiers:
 
 * **MIT License:** `MIT`
 * **Apache License 2.0:** `Apache-2.0`
 * **GNU General Public License v3.0 or later:** `GPL-3.0-or-later`
 * **BSD 3-Clause License:** `BSD-3-Clause`
+
+### Example fistSmartContract.sol
+[FirstSmartContract](../../src/firstSmartContract.sol)
